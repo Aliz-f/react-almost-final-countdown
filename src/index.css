@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-sm: 480px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 976px;
+  --breakpoint-xl: 1440px;
+
+  --color-dark-green-1: #06402b;
+  --color-dark-green-2: #053926;
+  --color-dark-green-3: #053221;
+  --color-dark-green-4: #042b1d;
+  --color-dark-green-5: #032418;
+  --color-dark-green-6: #031c13;
+  --color-dark-green-7: #02150e;
+  --color-dark-green-8: #010e0a;
+
+  --color-dark-cyan-1: #008b8b;
+  --color-dark-cyan-2: #007c7c;
+  --color-dark-cyan-3: #006c6c;
+  --color-dark-cyan-4: #005d5d;
+  --color-dark-cyan-5: #004d4d;
+  --color-dark-cyan-6: #003e3e;
+  --color-dark-cyan-7: #002e2e;
+  --color-dark-cyan-8: #001f1f;
+
+  --color-light-cyan-1: #99ffff;
+
+  --font-sans: "Poppins", sans-serif;
+  --font-akaya: "Akaya Kanadaka", serif;
+}
